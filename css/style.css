@@ -1,0 +1,19 @@
+div {
+    height: 10em;
+    width: 10em;
+    }
+body {
+    background-color: #f5f5dd;
+}
+#pierwszy{
+    background-color: #000000;
+    }
+#drugi{
+    background-color: rgba(0,0,0,0.75);
+}
+#trzeci{
+    background-color: rgba(0,0,0,0.50);
+}
+#czwarty{
+    background-color: rgba(0,0,0,0.25);
+}
